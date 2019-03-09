@@ -12,13 +12,13 @@ Just compile the sources and type in the CLI:
 
 All inputs can be applied using a command line interface:
 
-NEW: creates new game
-HEP: prints out help information
-QUIT: quits the game
-SWITCH: switches starting player
-LEVEL i: sets difficulty to level i
-MOVE fromX fromxY toX toY: moves a coordinate of a pawn
-PRINT: Prints the board to console
+*NEW: creates new game
+*HEP: prints out help information
+*QUIT: quits the game
+*SWITCH: switches starting player
+*LEVEL i: sets difficulty to level i
+*MOVE fromX fromxY toX toY: moves a coordinate of a pawn
+*PRINT: Prints the board to console
 
 ```javascript
 pc> m 2 1 2 2
