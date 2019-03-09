@@ -12,6 +12,19 @@ Just compile the sources and type in the CLI:
 
 All inputs can be applied using a command line interface:
 
+```javascript
+pc> m 2 1 2 2
+pc> p
+B B B B B B
+
+            B B
+
+
+W
+  W
+    W W W W W W
+```
+
 NEW: creates new game
 
 HEP: prints out help information
@@ -26,18 +39,7 @@ MOVE fromX fromxY toX toY: moves a coordinate of a pawn
 
 PRINT: Prints the board to console
 
-```javascript
-pc> m 2 1 2 2
-pc> p
-B B B B B B
 
-            B B
-
-
-W
-  W
-    W W W W W W
-```
 
 ## Development
 
